@@ -11,4 +11,4 @@ const arrowsFun = () => {
   </button>`;
   };
   
-  export { arrowsFun };
+  export {arrowsFun};
