@@ -51,7 +51,7 @@ const nav = () => {
         <button type="submit" id="sign-btn" class="c_btn">Sign In</button>
         <small id="smErr"></small>
         <div id="spacingForBtns"></div>
-        <div id="nwSph">New to Sephora?</div>
+        <div id="nwSph">New to Sephora?</div> 
         <button type="submit" id="createAccLogin">Create Account</button>
         <div class="formBottomLg">
           <a href="#">Terms of Use </a> & <a href="#"> Privacy Policy</a>
