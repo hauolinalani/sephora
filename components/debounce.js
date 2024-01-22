@@ -9,7 +9,7 @@ const searchRes = async (url) => {
   
     try {
       let res = await fetch(url, options);
-      let data = await res.json();
+      let data = await res.json(); 
       return data.products;
     } catch (err) {
       console.log(err);
