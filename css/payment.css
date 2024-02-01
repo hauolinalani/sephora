@@ -16,7 +16,7 @@ body {
     height: 10vh;
     width: 13vw;
   }
-  #main {
+#main {
     display: flex;
     margin: auto;
     justify-content: center;
